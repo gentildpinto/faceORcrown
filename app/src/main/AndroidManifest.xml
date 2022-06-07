@@ -10,6 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.CaraOuCoroa">
         <activity
+            android:name=".ChoiceActivity"
+            android:exported="false"
+            android:screenOrientation="sensor" />
+        <activity
             android:name=".MainActivity"
             android:exported="true"
             android:screenOrientation="sensor">

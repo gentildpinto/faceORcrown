@@ -1,7 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Cara ou Coroa</string>
     <string name="btn_play">Botão Jogar</string>
-    <string name="logo_image">Imagem Cara ou Coroa</string>
     <string name="result">Resultado</string>
     <string name="btn_return">Botão Voltar</string>
 </resources>
